@@ -1,6 +1,6 @@
 # Angular 2 with Webpack
 
-Angular 2 startup project with Webpack 
+<strong>Angular 2</strong> startup project with <strong>Webpack</strong> 
 
 <a href="https://angular.io/docs/ts/latest/guide/webpack.html">Documentation</a>
 
